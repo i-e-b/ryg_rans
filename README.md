@@ -1,3 +1,12 @@
+Purpose of this fork:
+=====================
+
+This is here to experiment with a managed C# port.
+Please see the original for the definitive version
+
+Original Readme:
+================
+
 This is a public-domain implementation of several rANS variants. rANS is an
 entropy coder from the ANS family, as described in Jarek Duda's paper
 "Asymmetric numeral systems" (http://arxiv.org/abs/1311.2540).
